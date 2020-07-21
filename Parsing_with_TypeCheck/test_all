@@ -1,0 +1,36 @@
+echo "test0"
+java Parser Tests/test0.uc 
+
+echo "test1"
+java Parser Tests/test1.uc 
+
+echo "test2"
+java Parser Tests/test2.uc 
+
+echo "test3"
+java Parser Tests/test3.uc 
+
+echo "test4"
+java Parser Tests/test4.uc 
+
+echo "test5"
+java Parser Tests/test5.uc 
+
+echo "test6"
+java Parser Tests/test6.uc 
+
+echo "test7"
+java Parser Tests/test7.uc 
+
+echo "test8"
+java Parser Tests/test8.uc 
+
+echo "sort"
+java Parser Tests/sort.uc
+
+echo "stack"
+java Parser Tests/stack.uc
+
+echo "stack2"
+java Parser Tests/stack2.uc
+
