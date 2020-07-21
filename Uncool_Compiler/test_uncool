@@ -1,0 +1,3 @@
+java Parser Tests/$1.uc > $1.s
+gcc -o $1 $1.s -static
+./$1
